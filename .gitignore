@@ -1,0 +1,47 @@
+# Compiled simulation libraries and ModelSim/Questa outputs
+work/
+vsim.wlf
+wlft*
+transcript
+modelsim.ini
+*.vstf
+*.vcd
+*.ghw
+*.lx2
+*.lxt
+*.vvp
+results.txt
+
+# Intel Quartus Prime / Quartus II generated files and directories
+db/
+incremental_db/
+output_files/
+simulation/modelsim/
+simulation/questa/
+greybox_tmp/
+hc_output/
+qdb/
+*.rpt
+*.summary
+*.smsg
+*.pin
+*.done
+*.jdi
+*.sof
+*.pof
+*.rbf
+*.ttf
+*.hexout
+*.sld
+*.sopcinfo
+*.qws
+*.bak
+*.orig
+
+# OS and editor temporary files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
